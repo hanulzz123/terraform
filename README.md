@@ -1,5 +1,4 @@
-This is Test
--jypark
+This is Terraform for AWS architecture - jypark
 
 Usage: terraform [global options] <subcommand> [args]
 
@@ -39,4 +38,3 @@ Global options (use these before the subcommand, if any):
                 given subcommand.
   -help         Show this help output, or the help for a specified subcommand.
   -version      An alias for the "version" subcommand.
-This is Terraform for AWS architecture
